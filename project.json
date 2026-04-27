@@ -1,0 +1,25 @@
+{
+  "overview": "A modern, interactive crime analytics visualization dashboard built for a final year project review at SVCE. Showcases CNN-based violence detection using AlexNet, LeNet, and VGG models with live crime heatmaps, KPI metrics, model performance comparisons, system architecture pipeline, and a live detection simulation (Sentinel View) — all with a dark blue/gold theme and glassmorphism design.",
+  "features": [
+    "Crime analytics dashboard with KPI cards and interactive charts",
+    "Crime type distribution and monthly trend line charts",
+    "Hour × day heatmap for crime intensity",
+    "CNN model accuracy comparison (AlexNet, LeNet, VGG)",
+    "System architecture pipeline visualization",
+    "Live detection simulation (Sentinel View) with alert log",
+    "Risk zones table for Chennai districts",
+    "Hero section with team/guide info",
+    "Dark glassmorphism UI with blue/gold accents"
+  ],
+  "category": "data-analytics-visualization",
+  "tags": [
+    "crime-analytics",
+    "data-visualization",
+    "cnn",
+    "machine-learning",
+    "dashboard",
+    "project-showcase",
+    "dark-theme"
+  ],
+  "last_updated": "2026-04-27T04:28:46.038Z"
+}
